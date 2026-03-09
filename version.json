@@ -1,0 +1,5 @@
+{
+    "version": "3.3",
+    "download_url": "https://github.com/Hstunggg/EthanGrokVideoShopee-v2/archive/refs/tags/v3.3.zip",
+    "changelog": "- Initial release with update system\n- Backup and restore logic\n- Auto-update UI"
+}
