@@ -1,6 +1,6 @@
 {
-      "version": "3.3",
-      "release_date": "2026-03-10",
-      "download_url": "https://github.com/Hstunggg/ethanvideo-releases/releases/download/v3.3/EthanGrokVideoShopee-v3.3.zip",
-      "changelog": "- Them nut cap nhat truc tiep trong app\n- Khach cap nhat ma khong mat key hoac settings\n- Tich hop GitHub Releases cho auto-update"
+  "version": "3.3",
+  "release_date": "2026-03-10",
+  "download_url": "https://github.com/Hstunggg/ethanvideo-releases/releases/download/v3.3/EthanGrokVideoShopee-v3.3-full.zip",
+  "changelog": "- Them nut cap nhat truc tiep trong app\n- Khach cap nhat ma khong mat key hoac settings\n- Tich hop GitHub Releases cho auto-update\n- Ban full kem Chromium browser"
 }
