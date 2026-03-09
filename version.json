@@ -1,5 +1,6 @@
 {
-    "version": "3.3",
-    "download_url": "https://github.com/Hstunggg/EthanGrokVideoShopee-v2/archive/refs/tags/v3.3.zip",
-    "changelog": "- Initial release with update system\n- Backup and restore logic\n- Auto-update UI"
+      "version": "3.3",
+      "release_date": "2026-03-10",
+      "download_url": "https://github.com/Hstunggg/ethanvideo-releases/releases/download/v3.3/EthanGrokVideoShopee-v3.3.zip",
+      "changelog": "- Them nut cap nhat truc tiep trong app\n- Khach cap nhat ma khong mat key hoac settings\n- Tich hop GitHub Releases cho auto-update"
 }
