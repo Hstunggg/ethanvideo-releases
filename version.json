@@ -1,0 +1,6 @@
+{
+  "version": "8.4",
+  "download_url": "https://github.com/Hstunggg/ethanvideo-releases/releases/download/v8.4/EthanGrokVideoShopee-v8.4.zip",
+  "changelog": "v8.4 - 29/03/2026\n- ✨ Thêm mode Mẫu 1 (Random prompt, không TTS)\n- 🔄 Retry download 30 phút cho video 10s\n- ✏️ Hệ thống tự nhập prompt linh hoạt\n- 🎲 Random prompt selection theo số cảnh\n- 🔇 Tự động strip giọng nói/TTS từ prompt",
+  "release_date": "2026-03-29"
+}
